@@ -26,8 +26,8 @@ User's flow:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/shagariboy/interactive-rating-component-main)
-- Live Site URL: [Live Site](https://delightful-sunburst-264113.netlify.app/)
+- Solution URL: [Github](https://github.com/shagariboy/calculator-app-fc)
+- Live Site URL: [Live Site](https://peppy-syrniki-0339ad.netlify.app/)
 
 ## My Process
 
